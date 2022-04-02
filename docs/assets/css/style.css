@@ -1490,7 +1490,7 @@ textarea {
 }
 
 .iitem:hover .iitem-icon-bg {
-    opacity: 0.14;
+    /* opacity: 0.14; */
 }
 
 .iitem:hover .iitem-desc {
