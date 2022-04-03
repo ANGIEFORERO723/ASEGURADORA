@@ -3705,13 +3705,13 @@ body.mmm-open .mmm {
  
 =======
 /* aqui inicia los cambios para editar el apartado de servicios para el proyecto de la aseguradora */
-
-.web{
+{}
+.experiencia{
     position: relative;
     left: 200px;
 }
 
-.experiencia{
+.web1 {
     position: relative;
     left: 200px;
 }
