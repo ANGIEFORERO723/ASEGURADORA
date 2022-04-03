@@ -3701,6 +3701,28 @@ body.mmm-open .mmm {
     }
 }
 
+/* aqui inicia los cambios para editar el apartado de servicios para el proyecto de la aseguradora */
+
+.web{
+    position: relative;
+    left: 200px;
+}
+
+.experiencia{
+    position: relative;
+    left: 200px;
+}
+
+.seguro-home{
+    position: relative;
+    left: 200px;
+}
+
+.seguro-home2{
+    position: relative;
+    left: 200px;
+}
+
 /*
 :root {
     --media-width: 1400px;
