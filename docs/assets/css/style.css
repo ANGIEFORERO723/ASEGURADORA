@@ -3701,13 +3701,10 @@ body.mmm-open .mmm {
     }
 }
 
-<<<<<<< HEAD
- 
-=======
 /* aqui inicia los cambios para editar el apartado de servicios para el proyecto de la aseguradora */
-{}
+
 .experiencia{
-    position: relative;
+    position: solid;
     left: 200px;
 }
 
@@ -3761,7 +3758,6 @@ body.mmm-open .mmm {
 
 
 
->>>>>>> 8f27423cb6760d0a4bde4b89d32b76e821504fef
 /*
 :root {
     --media-width: 1400px;
